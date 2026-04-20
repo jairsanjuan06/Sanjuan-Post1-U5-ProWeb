@@ -79,8 +79,12 @@ hacia GET `/tareas`. Esto evita el reenvío del formulario al presionar F5.
 - Encoding UTF-8 forzado en el POST → soporte de tildes y ñ
 
 ## Capturas de pantalla
-
-
+- A la hora de eliminar las tareas de la lista, la URL permanece en \tareas
+![EliminarTarea.png](Capturas/EliminarTarea.png)
+- La pagina muestra la lista con las 2 tareas iniciales
+![TareasIniciales.png](Capturas/TareasIniciales.png)
+- 
+![TituloVacio.png](Capturas/TituloVacio.png)
 ## Autor
 
 **Jair Sanjuan** — Ingeniería de Sistemas, UDES 2026
