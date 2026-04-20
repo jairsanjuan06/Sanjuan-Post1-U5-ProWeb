@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Sanjuan-Post1-U5-ProWeb:war exploded">
+    <output-path>$PROJECT_DIR$/gestion-tareas/src/main/webapp</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Sanjuan-Post1-U5-ProWeb/web/Web" />
+    </root>
+  </artifact>
+</component>
